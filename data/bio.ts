@@ -19,7 +19,7 @@ export const bioData = {
     {
       label: 'LinkedIn',
       value: 'Aadarsh Kumar',
-      href: 'https://linkedin.com/in/aadarsh-kumar',
+      href: 'https://linkedin.com/in/heyadrsh',
     },
   ],
 }
