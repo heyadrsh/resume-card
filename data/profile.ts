@@ -79,7 +79,7 @@ export const profileData = [
         title: 'Areas of Interest',
         subTitle: 'Focus Areas',
         date: '',
-        description: 'Software Development, Generative AI, ML, Frontend, UI Design',
+        description: 'Software Development, Genrative AI, ML, Frontend, UI Design',
       },
     ],
   },
