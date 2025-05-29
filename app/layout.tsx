@@ -8,8 +8,8 @@ import { SpeedInsights } from "@vercel/speed-insights/next"
 import { ThemeProvider } from '@/components/theme-provider'
 
 export const metadata: Metadata = {
-  title: 'Aadarsh Kumar - CV',
-  description: 'Personal CV website of Aadarsh Kumar - B.Tech Student & Software Developer',
+  title: 'AK - Resume',
+  description: 'Personal Resume website of Aadarsh Kumar - B.Tech Student & Software Developer',
   icons: {
     icon: '/favicon.ico',
     shortcut: '/favicon.ico',
