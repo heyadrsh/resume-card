@@ -3,6 +3,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 import { GeistSans } from 'geist/font'
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 import { ThemeProvider } from '@/components/theme-provider'
 
@@ -26,6 +27,7 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           {children}
+          <SpeedInsights />
         </ThemeProvider>
       </body>
     </html>
