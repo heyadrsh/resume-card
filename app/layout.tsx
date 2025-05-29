@@ -10,6 +10,14 @@ import { ThemeProvider } from '@/components/theme-provider'
 export const metadata: Metadata = {
   title: 'Aadarsh Kumar - CV',
   description: 'Personal CV website of Aadarsh Kumar - B.Tech Student & Software Developer',
+  icons: {
+    icon: [
+      { url: 'https://github.com/heyadrsh.png' }
+    ],
+    apple: [
+      { url: 'https://github.com/heyadrsh.png' }
+    ]
+  }
 }
 
 export default function RootLayout({
