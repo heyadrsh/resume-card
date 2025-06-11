@@ -1,7 +1,7 @@
 export const bioData = {
   name: 'Aadarsh Kr.',
   avatar: 'https://github.com/heyadrsh.png',
-  jobTitle: 'B.Tech Student & Software Developer',
+  jobTitle: 'Developer && Student',
   website: 'https://heyadrsh.tech/',
   about:
     'Creating software that works better than my morning routine 🍷 .',
