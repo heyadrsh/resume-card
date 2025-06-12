@@ -2,7 +2,7 @@ export const bioData = {
   name: 'Aadarsh Kr.',
   avatar: 'https://github.com/heyadrsh.png',
   jobTitle: 'Developer && Student',
-  website: 'https://heyadrsh.tech/',
+  website: 'https://www.heyadrsh.tech/',
   about:
     'Creating software that works better than my morning routine 🍷 .',
   contacts: [
