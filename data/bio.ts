@@ -4,7 +4,7 @@ export const bioData = {
   jobTitle: 'Developer && Student',
   website: 'https://www.heyadrsh.tech/',
   about:
-    'Creating software that works better than my morning routine 🍷 .',
+    'Full Stack Developer Intern at Unity Innovate 🍷 Building websites and AI-powered applications. Before that, I built ML models and interfaces at DRDO.',
   contacts: [
     {
       label: 'Email',

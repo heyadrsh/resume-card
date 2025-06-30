@@ -14,16 +14,16 @@ export const profileData = [
     title: 'Experience',
     items: [
       {
+        title: 'Full Stack Developer Intern',
+        subTitle: 'Unity Innovate',
+        date: '01.25 - Present',
+        description: 'Developing responsive web application and creating reusable UI components.',
+      },
+      {
         title: 'ML & Front-end Developer Intern',
         subTitle: 'Solid State Physical Laboratory (DRDO)',
         date: '12.24 - 02.25',
         description: 'Worked on sound classifying model and built web interface.',
-      },
-      {
-        title: 'Machine Learning Trainee',
-        subTitle: 'CETPA Infotech',
-        date: '06.23 - 08.23',
-        description: 'ML models for predictive analytics and data analysis.',
       },
     ],
   },
@@ -43,6 +43,20 @@ export const profileData = [
         date: '2025 - Present',
         description: 'Built responsive Next.js CV website with dark/light theme support and modern design.',
         href: 'https://resume.heyadrsh.tech',
+      },
+      {
+        title: 'OCRx',
+        subTitle: 'Professional OCR converter',
+        date: '05.25 - 06.25',
+        description: 'Converts images containing tables and text to CSV/Excel files using AI.',
+        href: 'https://ocr.heyadrsh.tech',
+      },
+      {
+        title: 'CreditWise AI',
+        subTitle: 'AI-powered credit card recommendation',
+        date: '05.25 - 06.25',
+        description: 'AI assistant that recommends best credit cards based on user financial profile.',
+        href: 'https://creditwise.heyadrsh.tech',
       },
       {
         title: 'Shot Detector',
