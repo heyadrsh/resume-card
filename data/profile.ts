@@ -28,7 +28,7 @@ export const profileData = [
     ],
   },
   {
-    title: 'SELECTED PROJECTS',
+    title: 'Projects',
     items: [
       {
         title: 'Portfolio',
