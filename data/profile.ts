@@ -14,10 +14,10 @@ export const profileData = [
     title: 'Experience',
     items: [
       {
-        title: 'Full Stack Developer Intern',
+        title: 'Software Developer Intern',
         subTitle: 'Unity Innovate',
         date: '01.25 - Present',
-        description: 'Developing responsive web application and creating reusable UI components.',
+        description: 'Developing web applications and AI solutions, creating reusable UI components.',
       },
       {
         title: 'ML & Front-end Developer Intern',
@@ -43,6 +43,13 @@ export const profileData = [
         date: '2025 - Present',
         description: 'Built responsive Next.js CV website with dark/light theme support and modern design.',
         href: 'https://resume.heyadrsh.tech',
+      },
+      {
+        title: 'Unity Innovate',
+        subTitle: 'Enterprise consulting platform',
+        date: '06.25 - 07.25',
+        description: 'Full-stack enterprise website with Strapi CMS integration for consulting firm.',
+        href: 'https://unityinnovate.com',
       },
       {
         title: 'OCRx',
