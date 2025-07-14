@@ -4,7 +4,7 @@ export const bioData = {
   jobTitle: 'Developer && Student',
   website: 'https://www.heyadrsh.tech/',
   about:
-    'Full Stack Developer Intern at Unity Innovate 🍷 Building websites and AI-powered applications. Before that, I built ML models and interfaces at DRDO.',
+    'Software Developer Intern at Unity Innovate 🍷 Creating web applications and AI solutions. Before that, I built ML models and interfaces at DRDO.',
   contacts: [
     {
       label: 'Email',
