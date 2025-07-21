@@ -52,11 +52,11 @@ export const profileData = [
         href: 'https://unityinnovate.com',
       },
       {
-        title: 'OCRx',
-        subTitle: 'Professional OCR converter',
+        title: 'SnapSheet',
+        subTitle: 'Professional Image to Table converter',
         date: '05.25 - 06.25',
         description: 'Converts images containing tables and text to CSV/Excel files using AI.',
-        href: 'https://ocr.heyadrsh.tech',
+        href: 'https://snapsheet.heyadrsh.tech',
       },
       {
         title: 'CreditWise AI',
