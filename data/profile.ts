@@ -84,7 +84,7 @@ export const profileData = [
         subTitle: 'Algorithm visualizer',
         date: '07.24 - 08.24',
         description: 'Interactive sorting algorithm visualizer with real-time animations and performance comparisons.',
-        href: 'https://github.com/heyadrsh/sortviz',
+        href: 'https://sortviz.heyadrsh.tech',
       },
       {
         title: 'AltNews',
@@ -98,7 +98,7 @@ export const profileData = [
         subTitle: 'Dynamic Tic Tac Toe',
         date: '05.24 - 06.24',
         description: 'Never draw again! Tic Tac Toe with Google Gemini AI where 4th mark removes oldest.',
-        href: 'https://heyadrsh.github.io/dynamic-tictactoe/',
+        href: 'https://shifttac.heyadrsh.tech',
       },
       {
         title: 'YT Clone',
