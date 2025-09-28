@@ -14,10 +14,10 @@ export const profileData = [
     title: 'Experience',
     items: [
       {
-        title: 'Software Developer Intern',
-        subTitle: 'Unity Innovate',
-        date: '01.25 - Present',
-        description: 'Developing web applications and AI solutions, creating reusable UI components.',
+        title: 'Data Analyst Intern',
+        subTitle: 'Indodata Initiatives',
+        date: '03.25 - Present',
+        description: 'Turning data into insights and creating analytics components.',
       },
       {
         title: 'ML & Front-end Developer Intern',
