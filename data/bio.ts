@@ -4,7 +4,7 @@ export const bioData = {
   jobTitle: 'Developer && Student',
   website: 'https://www.heyadrsh.tech/',
   about:
-    'Software Developer Intern at Unity Innovate 🍷 Creating web applications and AI solutions. Before that, I built ML models and interfaces at DRDO.',
+    'Data Analyst at Indodata Initiatives 🍷 Crafting insights from data and AI solutions. Before that, I built ML models and interfaces at DRDO.',
   contacts: [
     {
       label: 'Email',
