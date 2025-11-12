@@ -45,6 +45,13 @@ export const profileData = [
         href: 'https://resume.heyadrsh.tech',
       },
       {
+        title: 'Encode Life',
+        subTitle: 'Sustainable Bioplastics Platform',
+        date: '2025 - Present',
+        description: "India's first industrial-scale PLA biopolymer plant website with Next.js 15, Strapi CMS, and Supabase.",
+        href: 'https://encodelife.in',
+      },
+      {
         title: 'Unity Innovate',
         subTitle: 'Enterprise consulting platform',
         date: '06.25 - 07.25',
